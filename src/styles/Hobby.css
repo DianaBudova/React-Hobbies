@@ -1,0 +1,12 @@
+.hobby-title {
+    font-size: 20px;
+}
+
+.hobby-description {
+    font-size: 18px;
+}
+
+.hobby-title:hover {
+    background-color: rgb(201, 176, 131);
+    user-select: none;
+}
